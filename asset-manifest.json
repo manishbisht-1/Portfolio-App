@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio-App/static/css/main.7e6ba1a4.css",
+    "main.js": "/Portfolio-App/static/js/main.a42b776b.js",
+    "static/media/Restaurant2.png": "/Portfolio-App/static/media/Restaurant2.88e76cde615420aa7937.png",
+    "static/media/Port.png": "/Portfolio-App/static/media/Port.7f903ae317fb8afd1dfe.png",
+    "static/media/user.jpg": "/Portfolio-App/static/media/user.ab1d75af935ef6d6aa92.jpg",
+    "static/media/DigitalMK.png": "/Portfolio-App/static/media/DigitalMK.54d59adf9dc65bf474e8.png",
+    "static/media/searchFA.png": "/Portfolio-App/static/media/searchFA.e345265aed32ade3e2dc.png",
+    "static/media/IT-MANISH.pdf": "/Portfolio-App/static/media/IT-MANISH.a976a74c06d490fbc9ac.pdf",
+    "index.html": "/Portfolio-App/index.html",
+    "main.7e6ba1a4.css.map": "/Portfolio-App/static/css/main.7e6ba1a4.css.map",
+    "main.a42b776b.js.map": "/Portfolio-App/static/js/main.a42b776b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e6ba1a4.css",
+    "static/js/main.a42b776b.js"
+  ]
+}
